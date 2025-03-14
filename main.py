@@ -13,3 +13,5 @@ if st.button("Generate Numbers"):
     st.write("### Your Powerball Numbers:")
     st.write(f"White Balls: {white_balls}")
     st.write(f"Red Powerball: {red_ball}")
+    st.write(f"I wish you get a Jackpot 💰🔥.. Don't forget to thank Loki 😊")
+    st.balloons()
